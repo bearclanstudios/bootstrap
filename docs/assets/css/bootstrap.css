@@ -157,7 +157,7 @@ textarea {
 
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Coustard', Georgia, "Times New Roman", Times, serif;
   font-size: 13px;
   line-height: 18px;
   color: #333333;
@@ -763,7 +763,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Coustard', Georgia, "Times New Roman", Times, serif;
 }
 
 label {
@@ -1528,7 +1528,7 @@ table {
   padding: 8px;
   line-height: 18px;
   text-align: left;
-  vertical-align: top;
+  vertical-align: middle;
   border-top: 1px solid #dddddd;
 }
 
@@ -1778,7 +1778,7 @@ table .span24 {
   *margin-right: .3em;
   line-height: 14px;
   vertical-align: text-top;
-  background-image: url("../img/glyphicons-halflings.png");
+  background-image: url("../images/glyphicons-halflings.png");
   background-position: 14px 14px;
   background-repeat: no-repeat;
 }
@@ -1789,7 +1789,7 @@ table .span24 {
 }
 
 .icon-white {
-  background-image: url("../img/glyphicons-halflings-white.png");
+  background-image: url("../images/glyphicons-halflings-white.png");
 }
 
 .icon-glass {
